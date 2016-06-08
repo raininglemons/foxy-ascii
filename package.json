@@ -1,0 +1,11 @@
+{
+  "name": "foxy-ascii",
+  "version": "1.0.0",
+  "description": "A few ascii renditions of foxys logo...",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dom england",
+  "license": "ISC"
+}
